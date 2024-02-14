@@ -1,5 +1,5 @@
 # hello-world
 practising things
-dunno how gh works, panic rising
+dunno how github works, panic rising
 have even more thanks you're welcome
 # ooooooh rmarkdown!!
